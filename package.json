@@ -1,0 +1,27 @@
+{
+  "name": "inject2",
+  "version": "0.0.1",
+  "description": "Dependency Injection for Node.js",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "injector",
+    "injection",
+    "DI"
+  ],
+  "author": "lsong",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song940/injector.git"
+  },
+  "bugs": {
+    "url": "https://github.com/song940/injector/issues"
+  },
+  "homepage": "https://github.com/song940/injector#readme"
+}
